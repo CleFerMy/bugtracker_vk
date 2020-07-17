@@ -2,7 +2,7 @@
 Получение карточки тестировщика
 
 # Ссылки
-* https://clefer.ru/bugtracker/?id=138269465 — пример использования
+* [https://clefer.ru/bugtracker/?id=138269465](https://clefer.ru/bugtracker/?id=138269465) — пример использования
 
 # Используемые библиотеки
 * simple_html_dom
